@@ -1,6 +1,6 @@
 {
   "create": {
-    "title": "Encrypt message",
+    "title": "加密消息",
     "inputSecretLabel": "Secret message",
     "inputSecretPlaceholder": "Message to encrypt locally in your browser",
     "buttonEncrypt": "Encrypt Message",
@@ -88,6 +88,6 @@
   },
   "header": {
     "buttonHome": "Home",
-    "buttonUpload": "Upload"
+    "buttonUpload": "上传文件"
   }
 }
